@@ -1,3 +1,7 @@
+# Summary
+Simple text-based Mastermind game using Python libraries and File I/O developed for Fall 2021 Principles of Computing Science I class at Ithaca College.
+
+# Original Description
 Traditionally, Mastermind is a two-player game in which one player creates a
 code using colored pegs, secret to the other player. It is then up to the other
 player to guess the correct code in a set number of attempts.
